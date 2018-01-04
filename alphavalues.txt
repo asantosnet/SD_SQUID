@@ -1,0 +1,9 @@
+For images taken until 20:17 with exception of the one for 
+large values of alpha, the values of alpha used are : 
+
+0.125
+0.375
+0.625
+0.875
+1.125
+
