@@ -7,3 +7,15 @@ large values of alpha, the values of alpha used are :
 0.875
 1.125
 
+For the image for phi = 0 and i = 0
+		  phi = 0.5 and i = 0
+		  phi = 1  and i = 0
+		  phi = 1  and i = 10^-3
+, the alpha values used are
+
+0.10989010989
+0.32967032967
+0.549450549451
+0.769230769231
+0.989010989011
+
